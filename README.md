@@ -27,9 +27,13 @@ The analysis shows a mix of Battery Electric Vehicles (BEV) and Plug-in Hybrid E
 The code is organized into the following sections:
 
 Data cleaning and preprocessing
+
 Univariate analysis
+
 Bivariate analysis
+
 Correlation analysis
+
 Visualization
 
 
