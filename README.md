@@ -34,10 +34,14 @@ Visualization
 
 
 ## Requirements
-Python 3.x
+Python 3
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 
