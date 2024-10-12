@@ -11,16 +11,24 @@ The dataset used in this analysis is a collection of electric vehicle data, incl
 The analysis is performed using Python and popular libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The code is well-documented and easy to follow.
 
 ## Key Findings
-### Vehicle distribution: 
-Tesla is the most common manufacturer in the dataset, followed by Nissan and Chevrolet.
-### Electric range: 
-There is significant variation in the electric range of vehicles, with some having very short ranges (close to 0) and others extending beyond 300 miles.
+
+### Vehicle Distribution: 
+Tesla, Nissan, and Chevrolet are the most common manufacturers in the dataset, indicating their dominance in the electric vehicle market.
+
+### Electric Range: 
+Most vehicles in the dataset have a shorter electric range, with a majority clustering between 0 to 50 miles. There is significant variation, but the distribution is right-skewed, with fewer vehicles having higher ranges.
+
 ### Price (Base MSRP): 
-The price distribution is highly right-skewed, with most vehicles clustered at lower price points and a long tail of more expensive vehicles.
-### Model year:
-The dataset primarily contains newer models, with a concentration around 2020.
-### Vehicle types: 
-The analysis shows a mix of Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV), with BEVs generally having longer electric ranges.
+The price distribution is also right-skewed, with most vehicles at lower price points, indicating that electric vehicles are becoming more accessible to consumers.
+
+### Model Year: 
+The dataset primarily features newer models, especially those from around 2020, reflecting the recent growth and adoption of electric vehicles.
+
+### Vehicle Types:
+A mix of Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) is present, with BEVs typically offering longer ranges.
+
+### Correlations:
+There is a positive correlation between Electric Range and Base MSRP, showing that vehicles with longer ranges tend to be more expensive. However, a negative correlation between Model Year and Base MSRP suggests that newer models are not necessarily more expensive, likely due to advancements in EV technology.
 
 
 ## Code Structure
