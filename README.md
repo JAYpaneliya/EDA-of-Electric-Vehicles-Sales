@@ -1,7 +1,7 @@
-#Electric Vehicle Dataset EDA
+Electric Vehicle Dataset EDA
 ==========================
 
-#Overview
+Overview
 This repository contains an exploratory data analysis (EDA) of an electric vehicle dataset. The analysis provides insights into vehicle distribution, electric range, pricing, and market trends.
 
 Dataset
